@@ -72,9 +72,6 @@ Everything inside `@torch.no_grad()` is **excluded from the computation graph**.
 * No `.backward()` is called.
 * It's safe and efficient for validation.
 
----
-
-Let me know if you'd like to add contact links or a project summary at the top!
 
 
 
