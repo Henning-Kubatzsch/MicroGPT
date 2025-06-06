@@ -1,6 +1,6 @@
 # 🧠 MicroGPT
 
-A minimal character-level Transformer model implemented from scratch, inspired by nanoGPT. This notebook demonstrates the core principles behind training language models using PyTorch, with a focus on clean, readable code and educational clarity.
+A minimal character-level Transformer model implemented from scratch, inspired by nanoGPT. This project demonstrates the core principles behind training language models using PyTorch, with a focus on clean, readable code and educational clarity.
 
 ---
 
