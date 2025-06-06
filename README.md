@@ -1,7 +1,3 @@
-Here's a cleaned-up, professional version of your `README.md` with improved structure, clarity, grammar, and formatting. It keeps your technical intent intact while making it more readable and polished for others (e.g. recruiters, collaborators, or GitHub visitors):
-
----
-
 # 🧠 MicroGPT
 
 A minimal character-level Transformer model implemented from scratch, inspired by nanoGPT. This notebook demonstrates the core principles behind training language models using PyTorch, with a focus on clean, readable code and educational clarity.
