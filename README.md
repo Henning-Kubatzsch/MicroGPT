@@ -9,8 +9,6 @@ This repository demonstrates how to train a tiny GPT-style language model on any
 Download and load your dataset:
 
 ```python
-import wget
-
 wget.download('https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt')
 
 with open('input.txt', 'r', encoding='utf-8') as f:
