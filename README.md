@@ -97,10 +97,12 @@ MicroGPT is a great learning project to:
 * Explore token embeddings, attention, and autoregressive generation
 * Experiment with architecture and hyperparameters depending on your hardware
 
+---
+
 ## 🙏 Acknowledgements
 
 Thanks to Andrej Karpathy for the inspiring tutorial series that this project builds upon.
-
+---
 
 **Happy building! 🚀**
 Feel free to extend the model with attention masks, positional encodings, or deeper networks as your next step.
